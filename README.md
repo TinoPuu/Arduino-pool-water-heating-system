@@ -1,4 +1,4 @@
-Arduino Pool water heating.
+Arduino pool water heating system.
 
 In this project I make pool water heating system. We have two pumps that pump water into the tank and from there back into the pool.
 The system checks the temperature of the water which is heated by the solar panels which we don't control.
